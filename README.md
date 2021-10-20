@@ -13,7 +13,8 @@ filename        | Discription
 `reversi.py`    | implement the rule of Othello game and methods that need it.             
 `aihelper.py`   | Helper interfface class for the AI                 
 `tests_worked`  | This File Is For Unit Testing different components of the application                  
-`static`        | This Directory contine                
+`static`        | This Directory contine    
+`Attack`	| Two player attack
 
 
 ## Algorithm
@@ -77,7 +78,7 @@ else
 install flask and uuid packages first and then run server.py file
 ` $ pip install Flask uuid `
 ## RUN
-` $ python server.py `
+` $ python Attack.py `
 
 ## License
 MIT 2021
